@@ -2,6 +2,6 @@
 **IT 106 Project - FoodWiseU & George Mason University Partnership**
 
 ## Group Members
-* Bassem Sliti  (Email)
-* Mohammad Qamar (Email)
-* Temple Nwaeme (Email)
+* Bassem Sliti  
+* Mohammad Qamar 
+* Temple Nwaeme 
